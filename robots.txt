@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bramszs.my.id/sitemap.xml
